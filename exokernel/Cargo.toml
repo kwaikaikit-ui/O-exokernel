@@ -1,0 +1,29 @@
+# config.toml
+[package]
+name = "exokernel"
+version = "0.1.0"
+edition = "2021"
+authors = ["Exokernel Team"]
+
+[dependencies]
+spin = "0.9"
+
+[build-dependencies]
+chrono = "0.4"
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
+lto = true
+opt-level = 2
+
+[features]
+default = []
+arch-x86_64 = []
+arch-aarch64 = []
+arch-riscv64 = []
+arch-loongarch64 = []
+
+

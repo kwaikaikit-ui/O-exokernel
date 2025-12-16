@@ -1,0 +1,22 @@
+# rust-toolchain.toml 
+[toolchain]
+channel = "nightly-2024-01-15"
+
+components = [
+    "rust-src",              
+    "llvm-tools-preview",    
+    "rustfmt",               
+    "clippy",                
+    "rust-analyzer",         
+    "miri",                  
+]
+
+targets = [
+    "x86_64-unknown-none",
+    "aarch64-unknown-none",
+    "riscv64gc-unknown-none-elf",
+    "loongarch64-unknown-none",  
+]
+
+profile = "minimal"
+
