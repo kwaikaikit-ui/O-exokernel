@@ -1,5 +1,5 @@
 # O-exokernel
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx/xxx
 
 
 LibOS using proprietary technology do not need to be open source, but libOS built using open-source code protected by copyleft must comply with the relevant agreements. Therefore, external kernel modifiers are required to provide the modified version
